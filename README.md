@@ -1,19 +1,8 @@
 - 👋 Hi, I’m @AhmedAbuermais
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AhmedAbuermais/AhmedAbuermais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--suppress HtmlDeprecatedAttribute -->
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+- 👀 I’m interested in Wep Api DotNet Core
+- 🌱 I’m currently learning Signalr
 
 
-
-# Hey! 👋 Nice to see you. #
 
 
 
